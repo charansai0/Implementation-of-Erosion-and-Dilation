@@ -55,7 +55,7 @@ cv2.DestroyAllWindows
 ### Display the input Image
 <br>
 <br>
-![output]()
+![output](https://github.com/charansai0/Implementation-of-Erosion-and-Dilation/blob/main/1.png)
 <br>
 <br>
 <br>
@@ -66,7 +66,7 @@ cv2.DestroyAllWindows
 <br>
 <br>
 <br>
-![output]()
+![output](https://github.com/charansai0/Implementation-of-Erosion-and-Dilation/blob/main/2.png)
 <br>
 <br>
 
@@ -74,7 +74,7 @@ cv2.DestroyAllWindows
 <br>
 <br>
 <br>
-![output]()
+![output](https://github.com/charansai0/Implementation-of-Erosion-and-Dilation/blob/main/3.png)
 <br>
 <br>
 <br>
